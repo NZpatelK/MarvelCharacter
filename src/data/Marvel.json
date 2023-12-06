@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Captain Marvel",
+    "color" : "linear-gradient(135deg, #d41e31, #491f8f)",
+    "desc": "Captain Marvel soars through the cosmos with unwavering strength and cosmic grace, a beacon of power that transcends galaxies."
+  },
+  {
+    "name": "Spider-Man",
+    "color": "linear-gradient(135deg, #d10419 -10%, #0d1369)",
+    "desc": "Spider-Man, also known as Peter Parker, is a Marvel Comics superhero with agile abilities gained from a radioactive spider bite, combining acrobatics and web-slinging to fight crime in New York City."
+  },
+  {
+    "name": "Iron Man",
+    "color": "linear-gradient(135deg, #ff0019 -40%, #FFD700)",
+    "desc": "Iron Man, also known as Tony Stark, is a brilliant billionaire inventor and philanthropist who becomes a superhero with his technologically advanced powered armor."
+  },
+  {
+    "name": "Captain America",
+    "color": "linear-gradient(135deg, #9d0111 20%, #0348f6 )",
+    "desc": "Captain America, also known as Steve Rogers, is a patriotic and superhuman Marvel Comics character who wields a shield made of vibranium."
+  },
+  {
+    "name": "Hulk",
+    "color": "linear-gradient(135deg, #4ba03a -30%, #033b02 )",
+    "desc": "The Hulk, alter ego of Dr. Bruce Banner, is a Marvel Comics character known for his immense strength and uncontrollable rage, often depicted as a colossal green-skinned humanoid with superhuman abilities."
+  },
+  {
+    "name": "Black Widow",
+    "color": "linear-gradient(135deg, #000000 0%, #4b4b4b )",
+    "desc": "Black Widow, also known as Natasha Romanoff, is a skilled former KGB operative turned Avenger, celebrated for her exceptional combat skills and espionage expertise in the Marvel Cinematic Universe."
+  },
+  {
+    "name": "Hawkeye",
+    "color": "linear-gradient(135deg, #202020 0%, #6c6c6c )",
+    "desc": "Hawkeye is a skilled archer and marksman, known as Clint Barton in the Marvel Universe, and is a founding member of the Avengers."
+  },
+  {
+    "name": "Black Panther",
+    "color": "linear-gradient(90deg, #000000 30%, #5a5959 )",
+    "desc": "Black Panther is a groundbreaking Marvel superhero film that follows T'Challa, the king of the fictional African nation of Wakanda, as he assumes the mantle of the Black Panther to protect his people and confront new challenges."
+  },
+  {
+    "name": "Doctor Strange",
+    "color": "linear-gradient(90deg, #163190 -20%, #781414)",
+    "desc": "Doctor Strange, portrayed by Benedict Cumberbatch, is a brilliant and formerly arrogant neurosurgeon who becomes a powerful sorcerer, safeguarding the world from mystical threats in the Marvel Cinematic Universe"
+  },
+  {
+    "name": "Ant-Man",
+    "color": "linear-gradient(135deg, #850101, #404040)",
+    "desc": "Ant-Man, also known as Scott Lang or Hank Pym, is a Marvel Comics superhero with the ability to shrink in size while gaining superhuman strength."
+  },
+  {
+    "name": "Deadpool",
+    "color": "linear-gradient(135deg, #a60202 20%, #000000)",
+    "desc": "Deadpool, the irreverent and fourth-wall-breaking antihero, is known for his sharp wit and unconventional approach to superheroism."
+  }
+]
